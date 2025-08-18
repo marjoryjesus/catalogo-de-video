@@ -44,3 +44,14 @@ p {
   padding-right: 20px;
   margin-top: 50px;
 }
+.categoria-videos img{
+  opacity:0.5
+  heigth:200px
+}
+.categoria-videos img:hover{
+  opacity:1.0;
+  border:1px solid green;
+}
+.categoria h2{
+  color:rgb(78, 197, 218);
+}
